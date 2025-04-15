@@ -1,20 +1,20 @@
 # Custom Language File for Launcher Customizer
 
 [ejs.app]
-title = "Helios Launcher"
+title = "95z Launcher"
 
 [ejs.landing]
 mediaGitHubURL = "https://github.com/dscalzi/HeliosLauncher"
 mediaXURL = "#"
 mediaInstagramURL = "#"
 mediaYouTubeURL = "#"
-mediaDiscordURL = "https://discord.gg/zNWUXdt"
+mediaDiscordURL = "https://discord.gg/sWVeJsgN"
 
 [ejs.settings]
 sourceGithubLink = "https://github.com/dscalZi/HeliosLauncher"
 supportLink = "https://github.com/dscalZi/HeliosLauncher/issues"
 
 [ejs.welcome]
-welcomeHeader = "WELCOME TO WESTEROSCRAFT"
-welcomeDescription = "Our mission is to recreate the universe imagined by author George RR Martin in his fantasy series, A Song of Ice and Fire.  Through the collaborative effort of thousands of community members, we have sought to create Westeros as accurately and precisely as possible within Minecraft.  The world we are creating is yours to explore.  Journey from Dorne to Castle Black, and if you aren’t afraid, beyond the Wall itself, but best not delay.  As the words of House Stark ominously warn: Winter is Coming."
-welcomeDescCTA = "You are just a few clicks away from Westeros."
+welcomeHeader = "웨스테로스크래프트에 오신 것을 환영합니다"
+welcomeDescription = "우리의 사명은 조지 R. R. 마틴의 판타지 소설 『얼음과 불의 노래』 시리즈 속 세계를 재현하는 것입니다. 수천 명의 커뮤니티 구성원이 협력하여, 마인크래프트 안에서 가능한 한 정확하고 정밀하게 웨스테로스를 구현하고자 노력해 왔습니다. 우리가 만드는 이 세계는 여러분이 탐험할 수 있는 공간입니다. 도른에서 캐슬 블랙까지, 그리고 용기만 있다면 장벽 너머까지도 여행해 보세요. 하지만 지체하지 않는 것이 좋습니다. 스타크 가문의 말처럼: 겨울이 오고 있습니다."
+welcomeDescCTA = "지금 몇 번의 클릭만으로 웨스테로스로 향할 수 있습니다."
